@@ -1,5 +1,5 @@
 UPI Sentinel: Real-Time UPI Fraud Detection System
-A real-time desktop dashboard that simulates a stream of UPI transactions and uses an anomaly detection model to identify and flag potentially fraudulent activity. This project was built as a final year project for my Data Science degree at UEM Jaipur.
+A real-time desktop dashboard that simulates a stream of UPI transactions and uses an anomaly detection model to identify and flag potentially fraudulent activity. 
 
 🌟 Key Features
 Live Simulation: Simulates a real-time feed of UPI transactions, providing a dynamic environment for fraud detection.
