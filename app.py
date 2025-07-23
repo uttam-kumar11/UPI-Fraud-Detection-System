@@ -47,7 +47,7 @@ class UpiSentinelApp(QMainWindow):
         central_widget = QWidget()
         self.setCentralWidget(central_widget)
         main_layout = QVBoxLayout(central_widget)
-        main_layout.setSpacing(15)
+        main_layout.setSpacing(15) # Add spacing between main sections
         main_layout.setContentsMargins(15, 15, 15, 15)
 
         # --- Header ---
